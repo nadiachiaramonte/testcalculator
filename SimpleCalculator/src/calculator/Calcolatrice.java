@@ -5,9 +5,16 @@ public class Calcolatrice {
 		return x+y;
 	}
 	
+	int addizione =0;
+	int risultato = addizione ++ ;
+	
+	
 	int sub (int x, int y) {
 		return x-y;
 	}
+	
+
+	
 	
 	int mul (int x, int y) {
 		return x*y;
